@@ -45,7 +45,7 @@ The dataset contains student performance data with the following fields:
 ## 📁 Project Structure
 
 ```
-student.csv
+student_performance.csv
 mapper.py
 reducer.py
 README.md
