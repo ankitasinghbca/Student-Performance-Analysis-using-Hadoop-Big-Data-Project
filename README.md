@@ -91,6 +91,14 @@ Generative AI was used for:
 
 ---
 
+👨‍💻 Author
+
+Ankita Kumari Singh
+🎓 BCA (Data Science & AI)
+🏫 Babu Banarasi Das University
+
+---
+
 ## 📌 Future Scope
 
 * Real-time student analytics
