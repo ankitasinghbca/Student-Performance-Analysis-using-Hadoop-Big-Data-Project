@@ -91,10 +91,10 @@ Generative AI was used for:
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Ankita Kumari Singh
-🎓 BCA (Data Science & AI)
+**Ankita Kumari Singh**  
+🎓 BCA (Data Science & AI)  
 🏫 Babu Banarasi Das University
 
 ---
